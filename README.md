@@ -5,7 +5,7 @@ A curated lists of anything remotely related to linguistics.
     - [Platforms and toolkits](#platforms-and-toolkits)
     - [Algorithms](#algorithms)
 - [Resources](#resources)
-    - [Wikipedia][#wikipedia]
+    - [On Wikipedia](#on-wikipedia)
 
 ##Programming
 *Libraries, frameworks and applications useful for developing applications.*
@@ -23,7 +23,7 @@ A curated lists of anything remotely related to linguistics.
 ## Resources
 *List of interesiting external resources.*
 
-### Wikipedia
+### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
 * [Document classification](http://en.wikipedia.org/wiki/Document_classification)
 * [Language models](http://en.wikipedia.org/wiki/Language_model)
