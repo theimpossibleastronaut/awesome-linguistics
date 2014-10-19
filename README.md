@@ -6,6 +6,9 @@ A curated lists of anything remotely related to linguistics.
     - [Algorithms](#algorithms)
 - [Resources](#resources)
     - [On Wikipedia](#on-wikipedia)
+    - [Books](#books)
+        - [Free](#free)
+        - [Non free](#non-free)
 
 ##Programming
 *Libraries, frameworks and applications useful for developing applications.*
@@ -34,3 +37,14 @@ A curated lists of anything remotely related to linguistics.
 * [Sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis)
 * [Term frequency - inverse document frequency](http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 * [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
+
+### Books
+*Some of the more interesting and complete books.*
+
+#### Free
+* [Natural Language Processing for the Working Programmer](http://nlpwp.org/book/index.xhtml) - Unmaintained resource in haskell
+
+#### Non free
+* [The Oxford Handbook of Computational Linguistics](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349)
+* [Semisupervised Learning for Computational Linguistics](http://books.google.com/books/about/Semisupervised_Learning_for_Computationa.html?id=VCd67cGB_rAC&redir_esc=y)
+* [Foundations of Computational Linguistics](http://books.google.com/books?id=o9iGAgAAQBAJ&dq=Foundations+of+Computational+Linguistics&hl=nl&source=gbs_navlinks_s)
