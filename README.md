@@ -25,7 +25,8 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
 
 ## Resources
-*List of interesting external resources.*
+* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
+
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
