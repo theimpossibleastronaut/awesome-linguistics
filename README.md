@@ -39,6 +39,9 @@ A curated list of anything remotely related to linguistics, sorted an alphabetic
 * [Term frequency - inverse document frequency](http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 * [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
 
+### On Youtube
+* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
+
 ### Books
 *Some of the more interesting and complete books.*
 
