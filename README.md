@@ -24,6 +24,9 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - Various stemming algorithms from snowball.
 * [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
 
+### Data sets
+* [EuroRomCom Data](http://snowball.tartarus.org/texts/stemmersoverview.html) - JSON formatted Pan-Romance word lists.
+
 ## Resources
 *List of interesting external resources.*
 
