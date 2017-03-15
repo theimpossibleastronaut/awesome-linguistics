@@ -4,6 +4,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 - [Programming](#programming)
     - [Platforms and toolkits](#platforms-and-toolkits)
     - [Algorithms](#algorithms)
+    - [Data sets](#data-sets)
 - [Resources](#resources)
     - [On Wikipedia](#on-wikipedia)
     - [Books](#books)
