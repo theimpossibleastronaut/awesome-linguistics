@@ -1,4 +1,6 @@
-#Awesome Linguistics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+### Awesome Linguistics
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
 - [Programming](#programming)
@@ -12,7 +14,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
         - [Non free](#non-free)
         - [Lists](#lists)
 
-##Programming
+### Programming
 *Libraries, frameworks and applications useful for developing applications.*
 
 ### Platforms and toolkits
@@ -28,7 +30,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 ### Data sets
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
-## Resources
+### Resources
 *List of interesting external resources.*
 
 ### On Wikipedia
