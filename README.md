@@ -54,8 +54,9 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 #### Free
 * [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - An introductory book
+* [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
 * [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) - Unmaintained resource using the haskell programming language
-* [Natural Language Processing with Python](http://www.nltk.org/book/) - The book from the NLTK package
+* [Natural Language Processing with Python](http://www.nltk.org/book/) - The book from the NLTK package 
 
 #### Non free
 * [Foundations of Computational Linguistics](http://books.google.com/books?id=o9iGAgAAQBAJ&dq=Foundations+of+Computational+Linguistics&hl=nl&source=gbs_navlinks_s)
