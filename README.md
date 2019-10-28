@@ -48,6 +48,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### On Youtube
 * [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
+* [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) - CC-licensed educational videos interconnected with Marburg University's e-learning platform of the same name.
 
 ### Books
 *Some of the more interesting and complete books.*
@@ -68,3 +69,6 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Lists
 * [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)
+
+### Communities
+* [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)
