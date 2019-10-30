@@ -32,7 +32,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### Resources
-*List of interesting external resources.*
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) Guide on managing large scale linguistic annotation projects
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
