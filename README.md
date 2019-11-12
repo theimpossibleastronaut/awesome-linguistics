@@ -33,6 +33,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Resources
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) Guide on managing large scale linguistic annotation projects
+* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
