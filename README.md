@@ -73,3 +73,4 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Communities
 * [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)
+* [Untranslatable.co, Multilingual urban dictionary](https://untranslatable.co/)
