@@ -32,7 +32,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### Resources
-* [How To Label Data](https://www.lighttag.io/how-to-label-data/) Guide on managing large scale linguistic annotation projects
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) - Guide on managing large scale linguistic annotation projects.
 * [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 
 ### On Wikipedia
@@ -55,10 +55,10 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 *Some of the more interesting and complete books.*
 
 #### Free
-* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - An introductory book
+* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - An introductory book.
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
-* [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) - Unmaintained resource using the haskell programming language
-* [Natural Language Processing with Python](http://www.nltk.org/book/) - The book from the NLTK package 
+* [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) - Unmaintained resource using the haskell programming language.
+* [Natural Language Processing with Python](http://www.nltk.org/book/) - The book from the NLTK package.
 * [Text Mining with R](https://www.tidytextmining.com)
 
 #### Non free
