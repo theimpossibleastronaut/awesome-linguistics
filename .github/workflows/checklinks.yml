@@ -1,6 +1,11 @@
 name: Check Markdown links
 
-on: push
+on: 
+  push:
+    branches: 
+      - master
+  schedule:
+    - cron: "0 18 * * *"
 
 jobs:
   markdown-link-check:
