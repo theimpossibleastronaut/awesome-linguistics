@@ -22,6 +22,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
+* [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
 * [UralicNLP](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ### Algorithms
