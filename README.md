@@ -61,6 +61,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
 * [Natural Language Processing with Python](http://www.nltk.org/book/) - The book from the NLTK package.
 * [Text Mining with R](https://www.tidytextmining.com)
+* [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
 #### Non free
 * [Foundations of Computational Linguistics](http://books.google.com/books?id=o9iGAgAAQBAJ&dq=Foundations+of+Computational+Linguistics&hl=nl&source=gbs_navlinks_s)
