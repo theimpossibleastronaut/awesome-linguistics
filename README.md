@@ -59,7 +59,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 *Some of the more interesting and complete books.*
 
 #### Free
-* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - An introductory book.
+* [Essentials of Linguistics, 2nd edition](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/) - An introductory book (2nd edition).
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
 * [Natural Language Processing with Python](http://www.nltk.org/book/) - The book from the NLTK package.
 * [Text Mining with R](https://www.tidytextmining.com)
