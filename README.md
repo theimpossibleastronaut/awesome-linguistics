@@ -18,12 +18,16 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 *Libraries, frameworks and applications useful for developing applications.*
 
 ### Platforms and toolkits
+* [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
+* [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
 * [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 * [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
+* [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
 * [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
+* [textblob-de](https://github.com/markuskiller/textblob-de)
 * [UralicNLP](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ### Algorithms
@@ -32,12 +36,35 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Data sets
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+* [Araneum Germanicum](http://aranea.juls.savba.sk/aranea_about/_germanicum.html)
+* [CEHugeWebCorpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-2638)
+* [COW](http://corporafromtheweb.org/category/corpora/german/)
+* [Digitales Wörterbuch der deutschen Sprache (DWDS)](https://dwds.de)
+* [GC4 Corpus](https://german-nlp-group.github.io/projects/gc4-corpus.html) (CommonCrawl)
+* [IDS Corpora](http://www1.ids-mannheim.de/kl/projekte/korpora)
+* [Leipzig Corpora Collection](http://wortschatz.uni-leipzig.de/en/download/)
+* [SdeWaC](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html)
+* [C-WEP](http://lingured.info/linguistic-resources/cwep/)
+* [DysList (list of dyslexic errors)](https://github.com/Rauschii/DysListGerman)
+* [Falko](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/falko)
+* [Litkey](https://www.linguistics.ruhr-uni-bochum.de/litkeycorpus/)
+* [OpinionSpam](https://github.com/hdaSprachtechnologie/OpinionSpam)
 
 ### Resources
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) - Guide on managing large scale linguistic annotation projects.
 * [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 * [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
+## Deep learning models and transformers
+
+* [dbmdz BERT models](https://github.com/dbmdz/berts)
+* [Deepset German BERT model](https://deepset.ai/german-bert)
+* [Evaluating German Transformer Language Models with Syntactic Agreement Tests](https://github.com/DFKI-NLP/gevalm)
+* [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model)
+* [german-transformer-training](https://github.com/PhilipMay/german-transformer-training)
+* [GermLM](https://github.com/tonianelope/Multilingual-BERT) (NER exploration)
+* [GerPT2](https://github.com/bminixhofer/gerpt2)
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -71,8 +98,33 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition](https://books.google.nl/books?id=fZmj5UNK8AQC)
 * [The Oxford Handbook of Computational Linguistics](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349)
 
+### Standards
+
+* [DTA Basisformat](http://www.deutschestextarchiv.de/doku/basisformat/)
+* [ISO TC 37 SC 4](https://www.iso.org/committee/297592.html)
+* [UIMA](http://docs.oasis-open.org/uima/v1.0/os/uima-spec-os.html)
+* [UIMA CAS XMI](https://uima.apache.org/d/uimaj-current/references.html#ugr.ref.xmi)
+
 ### Lists
 * [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)
+* GitHub topics [corpus-linguistics](https://github.com/topics/corpus-linguistics) & [nlp](https://github.com/topics/nlp)
+* [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
+* [NLP-progress](https://github.com/sebastianruder/NLP-progress)
+* [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
+* [awesome-nlp](https://github.com/keon/awesome-nlp)
+* [Awesome Community-Curated NLP List](https://github.com/alvations/awesome-community-curated-nlp)
+* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP)
+* [awesome-danish](https://github.com/fnielsen/awesome-danish)
+* [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp)
+* [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
+* [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource)
+* [Norwegian NLP resources](https://github.com/web64/norwegian-nlp-resources)
+* [German NLP resources](https://github.com/adbar/German-NLP/)
+* [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish)
+* [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
+* [M. Weisser's list of NLP/Computational Linguistics Resources](http://martinweisser.org/corpora_site/comp_ling_resources.html)
+* [NLP tools (Saarland University)](http://www.coli.uni-saarland.de/~csporled/page.php?id=tools)
+* [W. Roberts' Computational Linguistics Links](http://amor.cms.hu-berlin.de/~robertsw/links.html)
 
 ### Communities
 * [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)
