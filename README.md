@@ -8,22 +8,27 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
     - [Algorithms](#algorithms)
     - [Data sets](#data-sets)
 - [Resources](#resources)
+    - [Deep learning models and transformers](#deep-learning-models-and-transformers)
     - [On Wikipedia](#on-wikipedia)
+    - [On Youtube](#on-youtube)
     - [Books](#books)
         - [Free](#free)
         - [Non free](#non-free)
         - [Lists](#lists)
+- [Standards](#standards)
+- [Lists](#lists)
+- [Communities](#communities)
 
 ### Programming
 *Libraries, frameworks and applications useful for developing applications.*
 
 ### Platforms and toolkits
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
-* [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
+* [CorpusExplorer](https://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
 * [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
-* [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
+* [Snowball](https://snowballstem.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 * [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
 * [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
 * [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
@@ -38,12 +43,11 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 * [Araneum Germanicum](http://aranea.juls.savba.sk/aranea_about/_germanicum.html)
 * [CEHugeWebCorpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-2638)
-* [COW](http://corporafromtheweb.org/category/corpora/german/)
 * [Digitales Wörterbuch der deutschen Sprache (DWDS)](https://dwds.de)
 * [GC4 Corpus](https://german-nlp-group.github.io/projects/gc4-corpus.html) (CommonCrawl)
-* [IDS Corpora](http://www1.ids-mannheim.de/kl/projekte/korpora)
-* [Leipzig Corpora Collection](http://wortschatz.uni-leipzig.de/en/download/)
-* [SdeWaC](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html)
+* [IDS Corpora](https://www1.ids-mannheim.de/kl/projekte/korpora)
+* [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/)
+* [SdeWaC](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html)
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
 * [DysList (list of dyslexic errors)](https://github.com/Rauschii/DysListGerman)
 * [Falko](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/falko)
@@ -55,7 +59,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 * [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
-## Deep learning models and transformers
+### Deep learning models and transformers
 
 * [dbmdz BERT models](https://github.com/dbmdz/berts)
 * [Deepset German BERT model](https://deepset.ai/german-bert)
@@ -67,16 +71,16 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
 
 ### On Wikipedia
-* [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
-* [Document classification](http://en.wikipedia.org/wiki/Document_classification)
-* [Language models](http://en.wikipedia.org/wiki/Language_model)
-* [Naive Bayes classification](http://en.wikipedia.org/wiki/Naive_Bayes_classifier)
-* [Natural language processing](http://en.wikipedia.org/wiki/Natural_language_processing)
-* [Outline of natural language processing](http://en.wikipedia.org/wiki/Outline_of_natural_language_processing)
-* [Parts of speech tagging](http://en.wikipedia.org/wiki/Part-of-speech_tagging)
-* [Sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis)
-* [Term frequency - inverse document frequency](http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
-* [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
+* [Bag of words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
+* [Document classification](https://en.wikipedia.org/wiki/Document_classification)
+* [Language models](https://en.wikipedia.org/wiki/Language_model)
+* [Naive Bayes classification](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+* [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+* [Outline of natural language processing](https://en.wikipedia.org/wiki/Outline_of_natural_language_processing)
+* [Parts of speech tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
+* [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis)
+* [Term frequency - inverse document frequency](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+* [Vector space model](https://en.wikipedia.org/wiki/Vector_space_model)
 
 ### On Youtube
 * [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
@@ -88,25 +92,25 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 #### Free
 * [Essentials of Linguistics, 2nd edition](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/) - An introductory book (2nd edition).
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
-* [Natural Language Processing with Python](http://www.nltk.org/book/) - The book from the NLTK package.
+* [Natural Language Processing with Python](https://www.nltk.org/book/) - The book from the NLTK package.
 * [Text Mining with R](https://www.tidytextmining.com)
 
 #### Non free
-* [Foundations of Computational Linguistics](http://books.google.com/books?id=o9iGAgAAQBAJ&dq=Foundations+of+Computational+Linguistics&hl=nl&source=gbs_navlinks_s)
+* [Foundations of Computational Linguistics](https://books.google.com/books?id=o9iGAgAAQBAJ&dq=Foundations+of+Computational+Linguistics&hl=nl&source=gbs_navlinks_s)
 * [Foundations of Statistical Natural Language Processing](https://books.google.nl/books?id=YiFDxbEX3SUC)
-* [Semisupervised Learning for Computational Linguistics](http://books.google.com/books/about/Semisupervised_Learning_for_Computationa.html?id=VCd67cGB_rAC&redir_esc=y)
+* [Semisupervised Learning for Computational Linguistics](https://books.google.com/books/about/Semisupervised_Learning_for_Computationa.html?id=VCd67cGB_rAC&redir_esc=y)
 * [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition](https://books.google.nl/books?id=fZmj5UNK8AQC)
-* [The Oxford Handbook of Computational Linguistics](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349)
+* [The Oxford Handbook of Computational Linguistics](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349)
 
 ### Standards
 
-* [DTA Basisformat](http://www.deutschestextarchiv.de/doku/basisformat/)
+* [DTA Basisformat](https://www.deutschestextarchiv.de/doku/basisformat/)
 * [ISO TC 37 SC 4](https://www.iso.org/committee/297592.html)
-* [UIMA](http://docs.oasis-open.org/uima/v1.0/os/uima-spec-os.html)
+* [UIMA](https://docs.oasis-open.org/uima/v1.0/os/uima-spec-os.html)
 * [UIMA CAS XMI](https://uima.apache.org/d/uimaj-current/references.html#ugr.ref.xmi)
 
 ### Lists
-* [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)
+* [15 most popular books on good reads](https://www.goodreads.com/shelf/show/natural-language-processing)
 * GitHub topics [corpus-linguistics](https://github.com/topics/corpus-linguistics) & [nlp](https://github.com/topics/nlp)
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 * [NLP-progress](https://github.com/sebastianruder/NLP-progress)
@@ -122,9 +126,9 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [German NLP resources](https://github.com/adbar/German-NLP/)
 * [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish)
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
-* [M. Weisser's list of NLP/Computational Linguistics Resources](http://martinweisser.org/corpora_site/comp_ling_resources.html)
-* [NLP tools (Saarland University)](http://www.coli.uni-saarland.de/~csporled/page.php?id=tools)
-* [W. Roberts' Computational Linguistics Links](http://amor.cms.hu-berlin.de/~robertsw/links.html)
+* [M. Weisser's list of NLP/Computational Linguistics Resources](https://martinweisser.org/corpora_site/comp_ling_resources.html)
+* [NLP tools (Saarland University)](https://www.coli.uni-saarland.de/~csporled/page.php?id=tools)
+* [W. Roberts' Computational Linguistics Links](https://amor.cms.hu-berlin.de/~robertsw/links.html)
 
 ### Communities
 * [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)
