@@ -23,8 +23,8 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 *Libraries, frameworks and applications useful for developing applications.*
 
 ### Platforms and toolkits
-* [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
-* [CorpusExplorer](https://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
+* [CLARIN-D web tools](https://www.clarin-d.net/en/analysing) - Tools for Analysing Research Data 
+* [CorpusExplorer](https://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 50 interactive visualizations under a user-friendly interface.
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
 * [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
@@ -32,7 +32,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
 * [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
 * [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
-* [textblob-de](https://github.com/markuskiller/textblob-de)
+* [textblob-de](https://github.com/markuskiller/textblob-de) - Nice alternative for spacy (see above).
 * [UralicNLP](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ### Algorithms
@@ -42,12 +42,12 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 ### Data sets
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 * [Araneum Germanicum](http://aranea.juls.savba.sk/aranea_about/_germanicum.html)
-* [CEHugeWebCorpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-2638)
+* [CEHugeWebCorpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-2638) - German corpus based on CommonCrawl
 * [Digitales Wörterbuch der deutschen Sprache (DWDS)](https://dwds.de)
 * [GC4 Corpus](https://german-nlp-group.github.io/projects/gc4-corpus.html) (CommonCrawl)
-* [IDS Corpora](https://www1.ids-mannheim.de/kl/projekte/korpora)
-* [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/)
-* [SdeWaC](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html)
+* [IDS Corpora](https://www1.ids-mannheim.de/kl/projekte/korpora) - German Reference Corpus
+* [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/) - sampled sentences in different languages.
+* [SdeWaC](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html) - big german internet corpus
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
 * [DysList (list of dyslexic errors)](https://github.com/Rauschii/DysListGerman)
 * [Falko](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/falko)
